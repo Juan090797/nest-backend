@@ -9,7 +9,7 @@ export class AuthService {
   }
 
   findAll() {
-    return `This action returns all auth + jmarquina`;
+    return `This action returns all auth + jmarquina 12012025`;
   }
 
   findOne(id: number) {
